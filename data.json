@@ -1,0 +1,62 @@
+{
+    "S1001": {
+        "name": "Abi",
+        "batch": "2024",
+        "attendance": {
+            "present_days": 180,
+            "total_days": 200
+        },
+        "terms": {
+            "Term1": {
+                "Math": 85,
+                "Science": 82,
+                "English": 80
+            },
+            "Term2": {
+                "Math": 75,
+                "Science": 80,
+                "English": 70
+            }
+        }
+    },
+    "S1002": {
+        "name": "Akhil",
+        "batch": "2024",
+        "attendance": {
+            "present_days": 190,
+            "total_days": 200
+        },
+        "terms": {
+            "Term1": {
+                "Math": 70,
+                "Science": 75,
+                "English": 80
+            },
+            "Term2": {
+                "Math": 75,
+                "Science": 72,
+                "English": 83
+            }
+        }
+    },
+    "S1003": {
+        "name": "Bob",
+        "batch": "2024",
+        "attendance": {
+            "present_days": 179,
+            "total_days": 200
+        },
+        "terms": {
+            "Term1": {
+                "Math": 80,
+                "Science": 89,
+                "English": 92
+            },
+            "Term2": {
+                "Math": 90,
+                "Science": 87,
+                "English": 88
+            }
+        }
+    }
+}
