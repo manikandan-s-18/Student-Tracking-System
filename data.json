@@ -3,16 +3,16 @@
         "name": "Abi",
         "batch": "2024",
         "attendance": {
-            "present_days": 180,
-            "total_days": 200
+            "present_days": 46,
+            "total_days": 60
         },
         "terms": {
-            "Term1": {
+            "term1": {
                 "Math": 85,
-                "Science": 82,
-                "English": 80
+                "Science": 35,
+                "English": 78
             },
-            "Term2": {
+            "term2": {
                 "Math": 75,
                 "Science": 80,
                 "English": 70
@@ -27,12 +27,12 @@
             "total_days": 200
         },
         "terms": {
-            "Term1": {
+            "term1": {
                 "Math": 70,
                 "Science": 75,
                 "English": 80
             },
-            "Term2": {
+            "term2": {
                 "Math": 75,
                 "Science": 72,
                 "English": 83
@@ -47,12 +47,12 @@
             "total_days": 200
         },
         "terms": {
-            "Term1": {
+            "term1": {
                 "Math": 80,
                 "Science": 89,
                 "English": 92
             },
-            "Term2": {
+            "term2": {
                 "Math": 90,
                 "Science": 87,
                 "English": 88
